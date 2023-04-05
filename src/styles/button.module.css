@@ -1,0 +1,6 @@
+.buttonCount {
+    background-color: rgb(224, 20, 37);
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}

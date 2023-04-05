@@ -1,0 +1,9 @@
+.red {
+    height: 100%;
+    background-color: rgb(182, 71, 71);
+    color: #eee;
+}
+
+.red h1 {
+    margin: 0;
+}
